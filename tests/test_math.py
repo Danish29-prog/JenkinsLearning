@@ -1,5 +1,5 @@
-def test_addition():
-    assert 10 + 20 == 30
+def test_add():
+    assert 2 + 2 == 5
 
 
 def test_subtraction():
